@@ -1,2 +1,2 @@
-# github-demo
-A simple demo repository.
+# huckster-ph
+A repository for capstone project.
